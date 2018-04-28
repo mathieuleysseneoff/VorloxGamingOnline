@@ -16,11 +16,8 @@ Nous avons mis à disposition différents thèmes dans l'application afin que vo
 
 
 Vous pouvez télécharger l'application Vorlox Gaming Online sur <a>`https://github.com/mathieuleysseneoff/VorloxGamingOnline/releases`
-![Logo officiel de GitHub](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Logo.png)
 </a> 
 ou avec le client Aptoide <a>`https://vorlox-gaming-online.fr.aptoide.com/?store_name=vorloxgaming&app_id=36878116`
-
-![Logo d'Aptoide](https://cdn6.aptoide.com/imgs/a/0/f/a0fa75907e641f99b87cf8ac25621cfd_icon.png?w=256)
 </a>
 
 <h4> Attention ! Notre application est uniquement disponible sur Android et n'est pas encore sur le Google Play Store car nous manquons de ressources. Si vous téléchargez notre application 100% gratuite (*des frais peuvent être entrainés avec l'utilisation des données mobiles)*, vous contribuez à sa prospération. Merci de votre aide et de votre soutien.
